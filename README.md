@@ -21,3 +21,15 @@
 <li>step 6. run php artisan serve 
         it will give url to test the project (127.0.0.1:8000)</li>
 </ul>
+
+
+<h4>Files to check</h4>
+<ul>
+    <li>Migration file  - ListTest/database/migrations/2020_09_14_100708_list_table.php</li>
+    <li>View files -  ListTest/resources/views</li>
+    <li>Controller file - ListTest/app/Http/Controllers/Controller.php</li>
+    <li>CSS file - ListTest/public/assets/css/custom.css </li>
+    <li>Javascript file - ListTest/public/assets/js/custom.js</li>
+    <li>Sample Logo - ListTest/public/assets/images/logo.png</li>
+
+</ul>
