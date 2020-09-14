@@ -25,11 +25,11 @@
 
 <h4>Files to check</h4>
 <ul>
-    <li>Migration file  - ListTest/database/migrations/2020_09_14_100708_list_table.php</li>
-    <li>View files -  ListTest/resources/views</li>
-    <li>Controller file - ListTest/app/Http/Controllers/Controller.php</li>
-    <li>CSS file - ListTest/public/assets/css/custom.css </li>
-    <li>Javascript file - ListTest/public/assets/js/custom.js</li>
-    <li>Sample Logo - ListTest/public/assets/images/logo.png</li>
+    <li> <b>Migration file</b>  - ListTest/database/migrations/2020_09_14_100708_list_table.php</li>
+    <li> <b>View files</b>      -  ListTest/resources/views</li>
+    <li><b>Controller file</b>  - ListTest/app/Http/Controllers/Controller.php</li>
+    <li><b>CSS file</b>         - ListTest/public/assets/css/custom.css </li>
+    <li><b>Javascript file</b>  - ListTest/public/assets/js/custom.js</li>
+    <li><b>Sample Logo</b>      - ListTest/public/assets/images/logo.png</li>
 
 </ul>
